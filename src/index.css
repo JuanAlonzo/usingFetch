@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'System UI', sans-serif;
+}
+
+.Api {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 50%;
+  background: #212121;
+  color: #fff;
+  border-radius: 1em;
+}
+
+button {
+  margin-top: 1em;
+  padding: 0.5em 1em;
+  border-radius: 0.5em;
+  border: none;
+  background: #212121;
+  color: #fff;
+  font-size: 1em;
+  cursor: pointer;
+}
